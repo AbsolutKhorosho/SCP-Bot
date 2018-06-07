@@ -1,0 +1,14 @@
+{
+  "name": "scp-bot",
+  "version": "2.0.0",
+  "description": "Chooses a random SCP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Absolut Khorosho",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
